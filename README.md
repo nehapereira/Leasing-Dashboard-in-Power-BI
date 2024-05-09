@@ -1,6 +1,6 @@
 # Leasing-Dashboard-in-Power-BI
 
-## Dataset: On data.world. Will put the file in the repository. The second table was made so I can learn Excel and Data Modeling in Power BI. 
+## Dataset: On data.world. The second table was made so I can learn Excel and Data Modeling in Power BI. (Will put the file in the repository.)
 
 ## Problem Statement
 
