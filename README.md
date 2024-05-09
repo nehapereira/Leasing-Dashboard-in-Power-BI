@@ -2,6 +2,10 @@
 
 ## Dataset: On data.world. The second table was made so I can learn Excel and Data Modeling in Power BI. (Will put the file in the repository.)
 
+![image](https://github.com/nehapereira/Leasing-Dashboard-in-Power-BI/assets/136058806/0b77f7eb-d03e-41f0-a846-ca9d29be2757)
+![image](https://github.com/nehapereira/Leasing-Dashboard-in-Power-BI/assets/136058806/d4d3f17b-80ea-45d5-a9c4-724afeea5e11)
+
+
 ## Problem Statement
 
 In the dynamic and competitive real estate leasing market, property management companies often struggle with efficiently managing and visualizing extensive leasing data. Challenges include tracking various metrics such as occupancy rates, financial performance across different properties, and lease renewal statuses. 
